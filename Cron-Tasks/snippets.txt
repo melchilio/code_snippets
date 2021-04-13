@@ -10,7 +10,7 @@
 
 
 
-###### Sample crontab ######
+###### Sample crontab #######
 
 # Empty temp folder every Friday at 5pm
 0 5 * * 5 rm -rf /tmp/*
